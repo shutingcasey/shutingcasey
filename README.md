@@ -3,7 +3,7 @@
 ## Hello there, I'm Casey 👋
 
 - 🎓 **Computer Programming & Analysis** student at Seneca Polytechnic  
-- 🚀 Seeking **Summer 2026 internship** opportunities in Data, BI, or Software Development  
+- 🚀 Seeking **Summer 2026 internship** opportunities in Data or Software Development  
 - 📩 Always open to connecting and learning from others
 
 ## 🧩 Technical Skills
